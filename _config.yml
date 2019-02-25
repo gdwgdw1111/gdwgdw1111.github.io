@@ -7,7 +7,7 @@ description: "Elias's Blog"
 keyword: "伊莱亚斯, Elias, 大鲸鱼, 鲸, Whale"
 url: "http://helloelias.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/HelloElias/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/HelloElias/HelloElias.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -20,7 +20,7 @@ sidebar-avatar: img/photo.jpg      # use absolute URL, seeing it's used in both 
 RSS: false
 # weibo_username:
 zhihu_username:
-github_username:
+github_username:HelloElias
 facebook_username:
 jianshu_username:
 #twitter_username:
@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  clientID: b18665c1322c1f4bd996                            #生成的clientID
+  2633cbe96dcdb63b81f0d23a0f59e5d80694487c    #生成的clientSecret
   repo: HelloElias.github.io    #仓库名称
   owner: HelloElias    #github用户名
   admin: HelloElias
