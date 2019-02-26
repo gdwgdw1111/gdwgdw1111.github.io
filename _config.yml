@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: b18665c1322c1f4bd996              #生成的clientID
-  2633cbe96dcdb63b81f0d23a0f59e5d80694487c    #生成的clientSecret
+  clientID: b18665c1322c1f4bd996                            #生成的clientID
+  clientSecret: 2633cbe96dcdb63b81f0d23a0f59e5d80694487c    #生成的clientSecret
   repo: HelloElias.github.io    #仓库名称
   owner: HelloElias    #github用户名
   admin: HelloElias
