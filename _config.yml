@@ -110,5 +110,8 @@ friends: [
     },{
         title: "CSDN",
         href: "https://www.csdn.net/"
+    },{
+        title: "臭姐姐",
+        href: "https://whiskyqaq.github.io/"
     }
 ]
