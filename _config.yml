@@ -11,7 +11,7 @@ github_repo: "https://github.com/gdwgdw1111/gdwgdw1111.github.io/" # you code re
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "It’s Barnum and Bailey world,Just as phony as it can be,But it wouldn’t be make-believe,If you believe in me.It’s Only a Paper Moon(E.Y. Harburg & Harold Arlen)"
+sidebar-about-description: "睡吧，宝贝"
 sidebar-avatar: /img/photo.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
