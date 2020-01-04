@@ -61,7 +61,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: b18665c1322c1f4bd996                            #生成的clientID
   clientSecret: 2633cbe96dcdb63b81f0d23a0f59e5d80694487c    #生成的clientSecret
   repo: gdwgdw1111.github.io    #仓库名称
@@ -99,16 +99,10 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "DN",
+        title: "baidu",
         href: "http://www.baidu.com"
     },{
-        title: "GG",
-        href: "http://www.Google.com"
-    },{
-        title: "ZW",
-        href: "http://www.cnki.net/"
-    },{
-        title: "CSDN",
-        href: "https://www.csdn.net/"
+        title: "DS",
+        href: "https://www.helloelias.cn"
     }
 ]
